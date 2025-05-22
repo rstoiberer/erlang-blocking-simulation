@@ -5,7 +5,7 @@ import math
 from collections import deque
 import heapq
 
-# Erlang-B formula implementation using factorial as described in assignment
+# Erlang-B formula implementation using factorial
 def erlang_b(m, E):
     """
     Calculate blocking probability using Erlang-B formula
